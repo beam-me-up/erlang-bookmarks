@@ -1,3 +1,5 @@
+* http://davekuhlman.org/simple-rest-app-cowboy.html
+
 ## Erlang for beginners
 
  * [Why erlang?](http://veldstra.org/whyerlang/)
